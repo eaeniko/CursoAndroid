@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="login">Login:</string>
+    <string name="logar">Logar</string>
+</resources>
